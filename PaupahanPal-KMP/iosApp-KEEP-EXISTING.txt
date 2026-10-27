@@ -1,0 +1,1 @@
+Keep your existing iosApp Xcode project and generated integration. The shared module exports a framework named Shared; connect it using the setup from your original KMP template.
